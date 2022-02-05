@@ -6,39 +6,300 @@ uid: 6e00733a-419f-a465-63ff-6b8eed7e9f82
 
 All lecture notes, if available, are provided below.
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Module 1: Programs that Monitor State**{{< /td-colspan >}} ||
-| 1 | [Robustness Through Model-based Programming (PDF - 3.5MB)]({{< baseurl >}}/resources/mit16_412js16_l1) |
-| 2 | [Programs That Monitor Hidden State (PDF - 1.3MB)]({{< baseurl >}}/resources/mit16_412js16_l2) |
-| {{< td-colspan 2 >}}**Module 2: Program with Time**{{< /td-colspan >}} ||
-| 3 | Programs with Flexible Time |
-| 4 | [Programs with Flexible Time and Choice (PDF - 1.4MB)]({{< baseurl >}}/resources/mit16_412js16_l4) |
-| {{< td-colspan 2 >}}**Module 3: Programs with Goal States**{{< /td-colspan >}} ||
-| 5 | [Programs on State and Planning as Heuristic Forward Search (PDF - 3.2MB)]({{< baseurl >}}/resources/mit16_412js16_l5) |
-| 6 | [Planning with Temporal Land Marks (PDF - 1.2MB)]({{< baseurl >}}/resources/mit16_412js16_l6) |
-| 7 | [Planning with Casual Graphs (PDF - 1.7MB)]({{< baseurl >}}/resources/mit16_412js16_l7) |
-| 8 | [Time-line Planning Using Casual Graphs (PDF - 2.4MB)]({{< baseurl >}}/resources/mit16_412js16_l8) |
-| {{< td-colspan 2 >}}**Module 4: Programs with Continuous State**{{< /td-colspan >}} ||
-| 9 | Programs that Monitor Continuous State |
-| 10 | Programs with Continuous Goal States |
-| {{< td-colspan 2 >}}**Module 5: Programs that Collaborate**{{< /td-colspan >}} ||
-| 11 | [Multi-agent Planning (PDF - 1.3MB)]({{< baseurl >}}/resources/mit16_412js16_l11) |
-| 12 | Programs that Relax |
-| 13 | [Programs that Execute with Humans (PDF - 3.3MB)]({{< baseurl >}}/resources/mit16_412js16_l13) |
-| {{< td-colspan 2 >}}**Module 6: {{< anchor "AdvancedLecture" >}}{{< /anchor >}}Advanced Lectures**{{< /td-colspan >}} ||
-| 14 | [Advanced Lecture 1: Incremental Path Planning (PDF - 3.0MB)]({{< baseurl >}}/resources/mit16_412js16_l14) |
-| 15 | [Advanced Lecture 2: Semantic Localization (PDF)]({{< baseurl >}}/resources/mit16_412js16_l15) |
-| 16 | [Advanced Lecture 3: Image Classification via Deep Learning (PDF - 4.2MB)]({{< baseurl >}}/resources/mit16_412js16_l16) |
-| 17 | [Advanced Lecture 4: Monte Carlo Tree Search (PDF - 2.0MB)]({{< baseurl >}}/resources/mit16_412js16_l17) |
-| 18 | [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Advanced Lecture 5: Reachability (PDF - 5.5MB)]({{< baseurl >}}/resources/mit16_412js16_l18) |
-| 19 | [Advanced Lecture 6: Planning with Temporal Logic (PDF - 1.4MB)]({{< baseurl >}}/resources/mit16_412js16_l19) |
-| 20 | [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Advanced Lecture 7: Probabilistic and Infinite Horizon Planning (PDF - 4.1MB)]({{< baseurl >}}/resources/mit16_412js16_l20) |
-| {{< td-colspan 2 >}}**Module 7: Risk-bounded Programming**{{< /td-colspan >}} ||
-| 21 | Risk-bounded Programs with Flexible Time |
-| 22 | [Risk-bounded Programming on Continuous State I (PDF - 3.6MB)]({{< baseurl >}}/resources/mit16_412js16_l22) |
-| 23 | Risk-bounded Programming on Continuous State II |
-| 24 | Risk-bounded Programs with Choice |
-| {{< td-colspan 2 >}}**Module 8: Grand Challenge**{{< /td-colspan >}} ||
-| 25 | Grand Challenge: Practice |
-| 26 | Grand Challenge
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 1: Programs that Monitor State**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[Robustness Through Model-based Programming (PDF - 3.5MB)]({{< baseurl >}}/resources/mit16_412js16_l1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Programs That Monitor Hidden State (PDF - 1.3MB)]({{< baseurl >}}/resources/mit16_412js16_l2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 2: Program with Time**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Programs with Flexible Time
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[Programs with Flexible Time and Choice (PDF - 1.4MB)]({{< baseurl >}}/resources/mit16_412js16_l4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 3: Programs with Goal States**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Programs on State and Planning as Heuristic Forward Search (PDF - 3.2MB)]({{< baseurl >}}/resources/mit16_412js16_l5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+[Planning with Temporal Land Marks (PDF - 1.2MB)]({{< baseurl >}}/resources/mit16_412js16_l6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[Planning with Casual Graphs (PDF - 1.7MB)]({{< baseurl >}}/resources/mit16_412js16_l7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+[Time-line Planning Using Casual Graphs (PDF - 2.4MB)]({{< baseurl >}}/resources/mit16_412js16_l8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 4: Programs with Continuous State**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Programs that Monitor Continuous State
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Programs with Continuous Goal States
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 5: Programs that Collaborate**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+[Multi-agent Planning (PDF - 1.3MB)]({{< baseurl >}}/resources/mit16_412js16_l11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Programs that Relax
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+[Programs that Execute with Humans (PDF - 3.3MB)]({{< baseurl >}}/resources/mit16_412js16_l13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 6: {{< anchor "AdvancedLecture" >}}{{< /anchor >}}Advanced Lectures**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+[Advanced Lecture 1: Incremental Path Planning (PDF - 3.0MB)]({{< baseurl >}}/resources/mit16_412js16_l14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+[Advanced Lecture 2: Semantic Localization (PDF)]({{< baseurl >}}/resources/mit16_412js16_l15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+[Advanced Lecture 3: Image Classification via Deep Learning (PDF - 4.2MB)]({{< baseurl >}}/resources/mit16_412js16_l16)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+[Advanced Lecture 4: Monte Carlo Tree Search (PDF - 2.0MB)]({{< baseurl >}}/resources/mit16_412js16_l17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Advanced Lecture 5: Reachability (PDF - 5.5MB)]({{< baseurl >}}/resources/mit16_412js16_l18)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+[Advanced Lecture 6: Planning with Temporal Logic (PDF - 1.4MB)]({{< baseurl >}}/resources/mit16_412js16_l19)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Advanced Lecture 7: Probabilistic and Infinite Horizon Planning (PDF - 4.1MB)]({{< baseurl >}}/resources/mit16_412js16_l20)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 7: Risk-bounded Programming**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Risk-bounded Programs with Flexible Time
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+[Risk-bounded Programming on Continuous State I (PDF - 3.6MB)]({{< baseurl >}}/resources/mit16_412js16_l22)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Risk-bounded Programming on Continuous State II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Risk-bounded Programs with Choice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Module 8: Grand Challenge**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Grand Challenge: Practice
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Grand Challenge
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

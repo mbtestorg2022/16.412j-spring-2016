@@ -124,7 +124,19 @@ Assessment
 
 The students' grades were based on the following activities:
 
-| - 10% Participation & attendance (mini quizzes){{< br >}}- 40% Problem sets{{< br >}}- 30% Advanced lecture & implementation{{< br >}}- 20% Grand challenge{{< br >}} 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+- 10% Participation & attendance (mini quizzes)
+- 40% Problem sets
+- 30% Advanced lecture & implementation
+- 20% Grand challenge
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Information
 -------------------

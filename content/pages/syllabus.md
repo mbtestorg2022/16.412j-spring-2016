@@ -44,12 +44,57 @@ Grading
 
 Your grade for 16.412 will be approximately based on the following weighting (the course staff reserves the right to consider other factors and adjust formula):
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation & attendance (mini quizzes) | 10% |
-| Problem sets | 40% |
-| Advanced lecture & implementation | 30% |
-| Grand challenge | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation & attendance (mini quizzes)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Advanced lecture & implementation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Grand challenge
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 **Note**: _You must do all assignments to pass the course_; a passing grade based on all other assignments may be converted to a failing grade if you do not turn in an assignment, where turning in an assignment means a good faith effort to complete it.
 
