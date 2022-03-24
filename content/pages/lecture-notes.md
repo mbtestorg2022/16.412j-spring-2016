@@ -213,7 +213,7 @@ Programs that Relax
 18
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Advanced Lecture 5: Reachability (PDF - 5.5MB)]({{< baseurl >}}/resources/mit16_412js16_l18)
+[Advanced Lecture 5: Reachability (PDF - 5.5MB)]({{< baseurl >}}/resources/mit16_412js16_l18)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -231,7 +231,7 @@ Programs that Relax
 20
 {{< tdclose >}}
 {{< tdopen >}}
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Advanced Lecture 7: Probabilistic and Infinite Horizon Planning (PDF - 4.1MB)]({{< baseurl >}}/resources/mit16_412js16_l20)
+[Advanced Lecture 7: Probabilistic and Infinite Horizon Planning (PDF - 4.1MB)]({{< baseurl >}}/resources/mit16_412js16_l20)
 {{< tdclose >}}
 
 {{< trclose >}}
