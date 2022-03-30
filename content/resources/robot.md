@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ad1eda11-401d-d0ef-7523-140bf389dc45
 resourcetype: Image
 title: robot.jpg
 uid: b53bac25-200f-69d6-a355-43610c6c8012

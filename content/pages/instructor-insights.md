@@ -89,9 +89,9 @@ Curriculum Information
 
 ### Prerequisites
 
-[_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)_,_ [_6.042 Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015/), or _16.09 Statistics and Probability._
+[_6.041 Probabilistic Systems Analysis and Applied Probability_](/courses/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013)_,_ [_6.042 Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-spring-2015), or _16.09 Statistics and Probability._
 
-[_16.410 Principles of Autonomy and Decision Making_](/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/), [_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010/), or [_6.825 Techniques in Artificial Intelligence_](/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002/)
+[_16.410 Principles of Autonomy and Decision Making_](/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010), [_6.034 Artificial Intelligence_](/courses/6-034-artificial-intelligence-fall-2010), or [_6.825 Techniques in Artificial Intelligence_](/courses/6-825-techniques-in-artificial-intelligence-sma-5504-fall-2002)
 
 ### Requirements Satisfied
 

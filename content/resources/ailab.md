@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ad1eda11-401d-d0ef-7523-140bf389dc45
 resourcetype: Image
 title: AILab.jpg
 uid: 5182a918-0eb6-ba25-f558-a774f71c056f

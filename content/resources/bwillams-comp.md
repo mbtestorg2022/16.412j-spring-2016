@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ad1eda11-401d-d0ef-7523-140bf389dc45
 resourcetype: Image
 title: BWillams-comp.jpg
 uid: 98e892ae-d4e5-6a1a-8b5a-7b82a0e0e653
